@@ -1,8 +1,0 @@
-{
-  "name": "savemytime-v2-api",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@google/genai": "^1.30.0"
-  }
-}
